@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/859488765846347957/4FB27DE025C123ACF90706D096FAD126F703B34C/" width=200>
+  <img src="https://c.tenor.com/4f8BH8nt1OYAAAAC/saturday-welcome-to-my-profile.gif" width=400>
   <br><br>
   <samp>
     I am <a href="https://github.com/Jaidev2001">JAIDEV:smile:</a> currently B.Sc. I.T.M student at <a href="https://www.ravenshawuniversity.ac.in/Home.php">@RAVENSHAW UNIVERSITY:school: </a> and Data Science Enthusiast:smile:. Interested in doing competitive coding:computer: and DSA:book:.
